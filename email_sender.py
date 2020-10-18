@@ -12,8 +12,8 @@ from email.mime.base import MIMEBase
 from email.mime.application import MIMEApplication
 
 import email_loader as my_loader
-MY_ADDRESS = 'benmariememna@gmail.com'
-PASSWORD = 'emnabenmariem'
+MY_ADDRESS = ''
+PASSWORD = ''
 PATH_FOR_MAIL='template.txt'
 email="tboujeh@gmail.com"
 
