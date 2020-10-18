@@ -18,8 +18,6 @@ PATH_FOR_MAIL='template.txt'
 email="tboujeh@gmail.com"
 
 
-#MY_ADDRESS = 'tboujeh@gmail.com'
-#PASSWORD = 'lologitech4'
 #PATH_FOR_MAIL='template.txt'
 #email="tboujeh@gmail.com"
 
